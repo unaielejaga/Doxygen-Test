@@ -1,0 +1,10 @@
+digraph "es.deusto.testing.junit.MoneyBag.equals"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="es.deusto.testing.junit.\lMoneyBag.equals",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="es.deusto.testing.junit.\lMoneyBag.isZero",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classes_1_1deusto_1_1testing_1_1junit_1_1_money_bag.html#abebc5bc39c3343cb3c4e5fb291fd5893",tooltip=" "];
+}
